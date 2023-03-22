@@ -2,8 +2,10 @@
 
 Parrot is a simple language model for learning purposes. In order to learn the whole AI stack, parrot is built in stages:
 
-1. A transformer architecture built in Rust
-2. A language model built in Python
+1. An embeddings model
+2. A language model
+3. A ChatBot built over the model
+4. A website interface for the chatbot
 
 ## Language Model
 
