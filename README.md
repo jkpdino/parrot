@@ -17,3 +17,25 @@ The Parrot Language Model is a small AI LM which can run on any PC. Similar to C
 - Add memory to transformers
 - Weave a AIs together to form a super-AI
   - Language Model with a logic AI to control its output
+
+## Pensive
+
+PensiveLM is a multimodal, open-source large language model designed to be ran on a home computer.
+
+### Goals of Pensive
+
+- Specialize parts of the network
+- Work with audio, image, and text modals
+- Run on most computers
+- Reduce hallucinations
+- Maybe add some sort of reward system?
+
+
+## How to accomplish
+
+- Multimodal
+- Long Context Length (ALIBI)
+- Sparse Attention
+- Flash Attention
+- Multi-Query Attention
+- CoLT5
